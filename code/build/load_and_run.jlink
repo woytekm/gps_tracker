@@ -1,0 +1,6 @@
+connect
+h
+loadbin _build/nrf51422_xxac.bin 0x0
+r
+g
+
